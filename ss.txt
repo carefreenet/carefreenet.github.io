@@ -1,1 +1,1 @@
-vless://dda6f6d6-8b07-48c5-bda7-2b6821cb1876@1.1.1.1:443?encryption=none&security=tls&sni=1.oo.Us.kG&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=1.oo.Us.kG&path=vless-ws%2F%3Fed%3D2048#%E9%A1%B9%E7%9B%AE%E5%81%9C%E6%AD%A2
+
