@@ -1,160 +1,77 @@
-央视,#genre#
-CCTV-1 综合 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
-CCTV-2 财经 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
-CCTV-3 综艺 http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-CCTV-4 中文国际 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
-CCTV-5 体育 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
-CCTV-5+ 体育赛事 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
-CCTV-6 电影 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/index.m3u8
-CCTV-7 国防军事 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/index.m3u8
-CCTV-8 电视剧 http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-CCTV-9 纪录 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/index.m3u8
-CCTV-10 科教 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/index.m3u8
-CCTV-11 戏曲 http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/index.m3u8
-CCTV-12 社会与法 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/index.m3u8
-CCTV-13 新闻 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/index.m3u8
-CCTV-14 少儿 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/index.m3u8
-CCTV-15 音乐 http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
-CCTV-16 奥林匹克 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/index.m3u8
-CCTV-17 农业农村 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/index.m3u8
-CHC动作电影 http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-CHC家庭影院 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
-CHC影迷电影 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
-
-CCTV2,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-CCTV4,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV5,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV5+,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-CCTV6,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-CCTV8,http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-CCTV9,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-CCTV10,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
-CCTV12,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8
-CCTV13,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-CCTV16奥林匹克,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-CCTV世界地理,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
-CCTV世界地理,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
-CCTV兵器科技,http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-CCTV央视台球,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-CCTV央视台球,http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/1.m3u8
-CCTV央视台球,http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-CCTV女性时尚,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
-CCTV女性时尚,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
-CCTV怀旧剧场,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8
-CCTV怀旧剧场,http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-CCTV第一剧场,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
-CCTV第一剧场,http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-CCTV风云剧场,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
-CCTV风云足球,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
-CCTV风云足球,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/1.m3u8
-CCTV风云音乐,http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-CCTV电视指南,http://[2409:8087:7008:20::a]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-CHC动作电影,http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-CHC动作电影,http://[2409:8087:7008:20::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-CHC影迷电影,http://[2409:8087:7008:20::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-CHC影迷电影,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-CHC家庭影院,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-
-江苏频道,#genre#
-江苏城市,http://159.75.85.63:36666/migu/626064714.m3u8?migutoken=d3c94b0196507d8428655f70670af2c6ea45199f9498903c5d6debc0584d9de27542068fa7b88633308355101d6bb912e3d2887728edbe6d4b6474df5eae9dc7afffa0f8aef7ac904ae2e25055
-江苏城市,http://dg8006.runqidasoftware.top:10178/stream/channelid/2053744586?ticket=f41a753c865fc21f59e6285a0c2dc0a97b8d20fe
-江苏城市,https://migu.freetv.top/migu/626064714.m3u8?migutoken=56f5456b73c83544fd10025daa7c3f0522915b094a67f6ef1e916dea47ea031f9ae26015024ceee26d8e347060fc3c9fdf40f402a69896a5fd7fce623168841f691c1231468d24519f0b1490cf
-江苏城市,http://180.126.191.43:4022/rtp/239.49.9.35:6000
-江苏城市,https://migu.freetv.top/migu/626064714.m3u8?migutoken=9fd425e5bb2b9a306c95f437eb121fd10803bf95d8e5031b3800158171be6ea8af03dfd154db641b66f307ac81d733af4efeb4317a2f844f0950d0810385f3fb62625a3d7da5acbc8d24f92451
-江苏城市,http://litchi-play-encrypted-site.jstv.com/live/jscs_live.m3u8?txSecret=e0aaeba4cdb70773f5835ceb03874ea3&txTime=968075ef
-江苏城市,http://tvbox6.icu/tv/migu.php?id=jscs
-江苏城市,https://stream1.freetv.fun/382af609ebebedcd3beff96d1a1690f0d93113599507454e0695a2d002ae7623.m3u8
-江苏城市,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/jstv/jschengshi/600/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
-江苏城市,http://222.188.68.38:8888/newlive/live/hls/21/live.m3u8
-江苏城市,http://222.189.51.62:8888/newlive/live/hls/51/live.m3u8
-江苏城市,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw4264340981_727917420/ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8?icpid=3&RTS=1669269073&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-江苏城市,http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?&encrypt=
-江苏城市,http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/350/index.m3u8?&encrypt=
-江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv
-江苏卫视,http://159.75.85.63:36666/migu/623899368.m3u8?migutoken=44450ee5d9805c0c359d156e873d4cc8f71e5d03261dac3242e7ef82f604c2e10f8f5e17cf1787414b5a682160148f45ba9af15e6228bead8ac342edc8f55c371c850283f55eaa4fd2641cd2c4
-南京新闻综合,http://159.75.85.63:36666/migu/838109047.m3u8?migutoken=6d02ada5111e1c242367924a186dee61e71153e27ff05ebf483408afbade7e1a42aadf6ff4dbfa577fb3b1b9f56f3df70b3144f1cbdb84d2bdbc19a9d15527ea8d42c658757d9521fe391f0f11
-南京教科,http://159.75.85.63:36666/migu/838153729.m3u8?migutoken=39a3785d44d4e1b084ec90acb28bc3e31ac53c5773ab61e302e0ac58e0fc0b3961467231d04119281c61f1871cc5e3e1dd8eb443b5e3f60768fcf9764f3e1d1d495be42592b24958fc5632203d
-南京十八,http://159.75.85.63:36666/migu/838151753.m3u8?migutoken=2dc875d41fe191848137e116ce726d9aa700e19f657a047e41f1febf49c686826fa997d5121ee174f7180029c2d7aaa1b815e0c9397b63e91c39ae846487380997cfeb174a668300939a61d5ac
-江苏国际,http://159.75.85.63:36666/migu/626064674.m3u8?migutoken=e5cdbc320181be4ffc1b1250a5756934063a7c12884680b1a3d2c45216d781a128fc9fc308d44aa5dc05a038e28b483dcb6e48403cb6fd3d715c314da05de3bb20ba3cda346d569e4d0765c199
-江苏教育,http://159.75.85.63:36666/migu/628008321.m3u8?migutoken=48117648320d08f36b38555b8e30241ee1809f729b3a1288811d790a1e8ce7c94bbef45d14a861b2d6b4d900f9d3d832944619aeaf3256b4df3c947b08facf86597c36d10009330d28bfb4639c
-江苏影视,http://159.75.85.63:36666/migu/626064697.m3u8?migutoken=ae74e65a68b96dba3290d052c5c03011aa51654de1ef85afd8786fddc87c6ac80aacd37d02ed7d9fae948fe16b32721c7bf2d77af3140fa5087227673c5d8976aadc1cfe65af98ce8e3edaa59e
-江苏综艺,http://159.75.85.63:36666/migu/626065193.m3u8?migutoken=57a6600f561b12ce4315746648b6edc13d1a5ada2fa8d69191a04b023f75cd36e6096c53938b255454c9fcef2e120e171037e42aebf21e96e438af76164e98dd924557c0035d5de0e623d1ff28
-
-
 #EXTM3U x-tvg-url="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2
 http://ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3
 http://ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
 http://ott.mobaibox.com/PLTV/3/224/3221228091/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5
 http://ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
 http://ott.mobaibox.com/PLTV/3/224/3221228176/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6
 http://ott.mobaibox.com/PLTV/3/224/3221228123/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7
 http://ott.mobaibox.com/PLTV/3/224/3221228283/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV-8
 http://ott.mobaibox.com/PLTV/3/224/3221228194/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9
 http://ott.mobaibox.com/PLTV/3/224/3221228303/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10
 http://ott.mobaibox.com/PLTV/3/224/3221228286/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11
 http://ott.mobaibox.com/PLTV/3/224/3221228289/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12
 http://ott.mobaibox.com/PLTV/3/224/3221228401/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
 http://ott.mobaibox.com/PLTV/3/224/3221228324/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
 http://ott.mobaibox.com/PLTV/3/224/3221228292/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
 http://ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺央视频道",CCTV-16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
 http://ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="📺央视频道",CCTV-4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
 http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8K.png" group-title="📺央视频道",CCTV-8K
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8K.png" group-title="央视频道",CCTV-8K
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 tvg-name="央广购物" group-title="📺央视频道",CCTV央广购物
+#EXTINF:-1 tvg-name="央广购物" group-title="央视频道",CCTV央广购物
 http://ott.mobaibox.com/PLTV/3/224/3221228210/index.m3u8
-#EXTINF:-1 tvg-name="兵器科技" group-title="📺央视频道",CCTV兵器科技
+#EXTINF:-1 tvg-name="兵器科技" group-title="央视频道",CCTV兵器科技
 http://ott.mobaibox.com/PLTV/3/224/3221228686/index.m3u8
-#EXTINF:-1 tvg-name="第一剧场" group-title="📺央视频道",CCTV第一剧场
+#EXTINF:-1 tvg-name="第一剧场" group-title="央视频道",CCTV第一剧场
 http://ott.mobaibox.com/PLTV/3/224/3221228659/index.m3u8
-#EXTINF:-1 tvg-name="电视指南" group-title="📺央视频道",CCTV电视指南
+#EXTINF:-1 tvg-name="电视指南" group-title="央视频道",CCTV电视指南
 http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
-#EXTINF:-1 tvg-name="风云剧场" group-title="📺央视频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="风云剧场" group-title="央视频道",CCTV风云剧场
 http://ott.mobaibox.com/PLTV/3/224/3221228662/index.m3u8
-#EXTINF:-1 tvg-name="风云音乐" group-title="📺央视频道",CCTV风云音乐
+#EXTINF:-1 tvg-name="风云音乐" group-title="央视频道",CCTV风云音乐
 http://ott.mobaibox.com/PLTV/3/224/3221228665/index.m3u8
-#EXTINF:-1 tvg-name="风云足球" group-title="📺央视频道",CCTV风云足球
+#EXTINF:-1 tvg-name="风云足球" group-title="央视频道",CCTV风云足球
 http://ott.mobaibox.com/PLTV/3/224/3221228668/index.m3u8
-#EXTINF:-1 tvg-name="女性时尚" group-title="📺央视频道",CCTV女性时尚
+#EXTINF:-1 tvg-name="女性时尚" group-title="央视频道",CCTV女性时尚
 http://ott.mobaibox.com/PLTV/3/224/3221228674/index.m3u8
-#EXTINF:-1 tvg-name="央视高网" group-title="📺央视频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="央视高网" group-title="央视频道",CCTV高尔夫网球
 http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
-#EXTINF:-1 tvg-name="怀旧剧场" group-title="📺央视频道",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="怀旧剧场" group-title="央视频道",CCTV怀旧剧场
 http://ott.mobaibox.com/PLTV/3/224/3221228671/index.m3u8
-#EXTINF:-1 tvg-name="世界地理" group-title="📺央视频道",CCTV世界地理
+#EXTINF:-1 tvg-name="世界地理" group-title="央视频道",CCTV世界地理
 http://ott.mobaibox.com/PLTV/3/224/3221228680/index.m3u8
-#EXTINF:-1 tvg-name="央视台球" group-title="📺央视频道",CCTV央视台球
+#EXTINF:-1 tvg-name="央视台球" group-title="央视频道",CCTV央视台球
 http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
-#EXTINF:-1 tvg-name="文化精品" group-title="📺央视频道",CCTV央视文化精品
+#EXTINF:-1 tvg-name="文化精品" group-title="央视频道",CCTV央视文化精品
 http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
-#EXTINF:-1 tvg-name="中国教育1" group-title="📺央视频道",中国教育1
+#EXTINF:-1 tvg-name="中国教育1" group-title="央视频道",中国教育1
 http://ott.mobaibox.com/PLTV/3/224/3221227560/index.m3u8
-#EXTINF:-1 tvg-name="中国教育2" group-title="📺央视频道",中国教育2
+#EXTINF:-1 tvg-name="中国教育2" group-title="央视频道",中国教育2
 http://ott.mobaibox.com/PLTV/3/224/3221227607/index.m3u8
-#EXTINF:-1 tvg-name="中国教育3" group-title="📺央视频道",中国教育3
+#EXTINF:-1 tvg-name="中国教育3" group-title="央视频道",中国教育3
 http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
-#EXTINF:-1 tvg-name="中国教育4" group-title="📺央视频道",中国教育4
+#EXTINF:-1 tvg-name="中国教育4" group-title="央视频道",中国教育4
 http://ott.mobaibox.com/PLTV/3/224/3221227028/index.m3u8
 #EXTINF:-1 tvg-name="4K UHD" group-title="📡卫视频道",4K UHD
 http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
@@ -226,35 +143,35 @@ http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227590/index.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="📡卫视频道",厦门卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227604/index.m3u8
-#EXTINF:-1 tvg-name="上海哈哈炫动" group-title="📺少儿",上海哈哈炫动
+#EXTINF:-1 tvg-name="上海哈哈炫动" group-title="少儿",上海哈哈炫动
 http://ott.mobaibox.com/PLTV/3/224/3221227586/index.m3u8
-#EXTINF:-1 tvg-name="北京卡酷少儿" group-title="📺少儿",北京卡酷少儿
+#EXTINF:-1 tvg-name="北京卡酷少儿" group-title="少儿",北京卡酷少儿
 http://ott.mobaibox.com/PLTV/3/224/3221227566/index.m3u8
-#EXTINF:-1 tvg-name="广东嘉佳卡通" group-title="📺少儿",广东嘉佳卡通
+#EXTINF:-1 tvg-name="广东嘉佳卡通" group-title="少儿",广东嘉佳卡通
 http://ott.mobaibox.com/PLTV/3/224/3221227598/index.m3u8
-#EXTINF:-1 tvg-name="湖南金鹰卡通" group-title="📺少儿",湖南金鹰卡通
+#EXTINF:-1 tvg-name="湖南金鹰卡通" group-title="少儿",湖南金鹰卡通
 http://ott.mobaibox.com/PLTV/3/224/3221227630/index.m3u8
-#EXTINF:-1 tvg-name="江苏优漫卡通" group-title="📺少儿",江苏优漫卡通
+#EXTINF:-1 tvg-name="江苏优漫卡通" group-title="少儿",江苏优漫卡通
 http://ott.mobaibox.com/PLTV/3/224/3221227577/index.m3u8
-#EXTINF:-1 tvg-name="江苏体育休闲" group-title="📺江苏地方频道",江苏体育休闲
+#EXTINF:-1 tvg-name="江苏体育休闲" group-title="江苏地方频道",江苏体育休闲
 http://ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8
-#EXTINF:-1 tvg-name="江苏公共新闻" group-title="📺江苏地方频道",江苏公共新闻
+#EXTINF:-1 tvg-name="江苏公共新闻" group-title="江苏地方频道",江苏公共新闻
 http://ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8
-#EXTINF:-1 tvg-name="江苏城市" group-title="📺江苏地方频道",江苏城市
+#EXTINF:-1 tvg-name="江苏城市" group-title="江苏地方频道",江苏城市
 http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
-#EXTINF:-1 tvg-name="江苏影视" group-title="📺江苏地方频道",江苏影视
+#EXTINF:-1 tvg-name="江苏影视" group-title="江苏地方频道",江苏影视
 http://ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8
-#EXTINF:-1 tvg-name="江苏教育" group-title="📺江苏地方频道",江苏教育
+#EXTINF:-1 tvg-name="江苏教育" group-title="江苏地方频道",江苏教育
 http://ott.mobaibox.com/PLTV/3/224/3221225923/index.m3u8
-#EXTINF:-1 tvg-name="江苏综艺" group-title="📺江苏地方频道",江苏综艺
+#EXTINF:-1 tvg-name="江苏综艺" group-title="江苏地方频道",江苏综艺
 http://ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8
-#EXTINF:-1 tvg-name="江苏好享购物" group-title="📺江苏地方频道",江苏好享购物
+#EXTINF:-1 tvg-name="江苏好享购物" group-title="江苏地方频道",江苏好享购物
 http://ott.mobaibox.com/PLTV/3/224/3221227570/index.m3u8
-#EXTINF:-1 tvg-name="盐城1" group-title="📺江苏地方频道",盐城1
+#EXTINF:-1 tvg-name="盐城1" group-title="江苏地方频道",盐城1
 http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
-#EXTINF:-1 tvg-name="盐城2" group-title="📺江苏地方频道",盐城2
+#EXTINF:-1 tvg-name="盐城2" group-title="江苏地方频道",盐城2
 http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
-#EXTINF:-1 tvg-name="盐城3" group-title="📺江苏地方频道",盐城3
+#EXTINF:-1 tvg-name="盐城3" group-title="江苏地方频道",盐城3
 http://ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u8
 #EXTINF:-1 tvg-name="NewTV海外剧场" group-title="☘️NEWTV",NewTV海外剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
@@ -439,35 +356,35 @@ http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227590/index.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="📡卫视频道",厦门卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227604/index.m3u8
-#EXTINF:-1 tvg-name="上海哈哈炫动" group-title="📺少儿",上海哈哈炫动
+#EXTINF:-1 tvg-name="上海哈哈炫动" group-title="少儿",上海哈哈炫动
 http://ott.mobaibox.com/PLTV/3/224/3221227586/index.m3u8
-#EXTINF:-1 tvg-name="北京卡酷少儿" group-title="📺少儿",北京卡酷少儿
+#EXTINF:-1 tvg-name="北京卡酷少儿" group-title="少儿",北京卡酷少儿
 http://ott.mobaibox.com/PLTV/3/224/3221227566/index.m3u8
-#EXTINF:-1 tvg-name="广东嘉佳卡通" group-title="📺少儿",广东嘉佳卡通
+#EXTINF:-1 tvg-name="广东嘉佳卡通" group-title="少儿",广东嘉佳卡通
 http://ott.mobaibox.com/PLTV/3/224/3221227598/index.m3u8
-#EXTINF:-1 tvg-name="湖南金鹰卡通" group-title="📺少儿",湖南金鹰卡通
+#EXTINF:-1 tvg-name="湖南金鹰卡通" group-title="少儿",湖南金鹰卡通
 http://ott.mobaibox.com/PLTV/3/224/3221227630/index.m3u8
-#EXTINF:-1 tvg-name="江苏优漫卡通" group-title="📺少儿",江苏优漫卡通
+#EXTINF:-1 tvg-name="江苏优漫卡通" group-title="少儿",江苏优漫卡通
 http://ott.mobaibox.com/PLTV/3/224/3221227577/index.m3u8
-#EXTINF:-1 tvg-name="江苏体育休闲" group-title="📺江苏地方频道",江苏体育休闲
+#EXTINF:-1 tvg-name="江苏体育休闲" group-title="江苏地方频道",江苏体育休闲
 http://ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8
-#EXTINF:-1 tvg-name="江苏公共新闻" group-title="📺江苏地方频道",江苏公共新闻
+#EXTINF:-1 tvg-name="江苏公共新闻" group-title="江苏地方频道",江苏公共新闻
 http://ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8
-#EXTINF:-1 tvg-name="江苏城市" group-title="📺江苏地方频道",江苏城市
+#EXTINF:-1 tvg-name="江苏城市" group-title="江苏地方频道",江苏城市
 http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
-#EXTINF:-1 tvg-name="江苏影视" group-title="📺江苏地方频道",江苏影视
+#EXTINF:-1 tvg-name="江苏影视" group-title="江苏地方频道",江苏影视
 http://ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8
-#EXTINF:-1 tvg-name="江苏教育" group-title="📺江苏地方频道",江苏教育
+#EXTINF:-1 tvg-name="江苏教育" group-title="江苏地方频道",江苏教育
 http://ott.mobaibox.com/PLTV/3/224/3221225923/index.m3u8
-#EXTINF:-1 tvg-name="江苏综艺" group-title="📺江苏地方频道",江苏综艺
+#EXTINF:-1 tvg-name="江苏综艺" group-title="江苏地方频道",江苏综艺
 http://ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8
-#EXTINF:-1 tvg-name="江苏好享购物" group-title="📺江苏地方频道",江苏好享购物
+#EXTINF:-1 tvg-name="江苏好享购物" group-title="江苏地方频道",江苏好享购物
 http://ott.mobaibox.com/PLTV/3/224/3221227570/index.m3u8
-#EXTINF:-1 tvg-name="盐城1" group-title="📺江苏地方频道",盐城1
+#EXTINF:-1 tvg-name="盐城1" group-title="江苏地方频道",盐城1
 http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
-#EXTINF:-1 tvg-name="盐城2" group-title="📺江苏地方频道",盐城2
+#EXTINF:-1 tvg-name="盐城2" group-title="江苏地方频道",盐城2
 http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
-#EXTINF:-1 tvg-name="盐城3" group-title="📺江苏地方频道",盐城3
+#EXTINF:-1 tvg-name="盐城3" group-title="江苏地方频道",盐城3
 http://ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u8
 #EXTINF:-1 tvg-name="NewTV海外剧场" group-title="NEWTV",NewTV海外剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
@@ -507,3 +424,28 @@ http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
 #EXTINF:-1 tvg-name="NewTV金牌综艺" group-title="NEWTV",NewTV金牌综艺
 http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
+
+江苏频道,#genre#
+江苏城市,http://159.75.85.63:36666/migu/626064714.m3u8?migutoken=d3c94b0196507d8428655f70670af2c6ea45199f9498903c5d6debc0584d9de27542068fa7b88633308355101d6bb912e3d2887728edbe6d4b6474df5eae9dc7afffa0f8aef7ac904ae2e25055
+江苏城市,http://dg8006.runqidasoftware.top:10178/stream/channelid/2053744586?ticket=f41a753c865fc21f59e6285a0c2dc0a97b8d20fe
+江苏城市,https://migu.freetv.top/migu/626064714.m3u8?migutoken=56f5456b73c83544fd10025daa7c3f0522915b094a67f6ef1e916dea47ea031f9ae26015024ceee26d8e347060fc3c9fdf40f402a69896a5fd7fce623168841f691c1231468d24519f0b1490cf
+江苏城市,http://180.126.191.43:4022/rtp/239.49.9.35:6000
+江苏城市,https://migu.freetv.top/migu/626064714.m3u8?migutoken=9fd425e5bb2b9a306c95f437eb121fd10803bf95d8e5031b3800158171be6ea8af03dfd154db641b66f307ac81d733af4efeb4317a2f844f0950d0810385f3fb62625a3d7da5acbc8d24f92451
+江苏城市,http://litchi-play-encrypted-site.jstv.com/live/jscs_live.m3u8?txSecret=e0aaeba4cdb70773f5835ceb03874ea3&txTime=968075ef
+江苏城市,http://tvbox6.icu/tv/migu.php?id=jscs
+江苏城市,https://stream1.freetv.fun/382af609ebebedcd3beff96d1a1690f0d93113599507454e0695a2d002ae7623.m3u8
+江苏城市,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/jstv/jschengshi/600/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+江苏城市,http://222.188.68.38:8888/newlive/live/hls/21/live.m3u8
+江苏城市,http://222.189.51.62:8888/newlive/live/hls/51/live.m3u8
+江苏城市,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw4264340981_727917420/ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8?icpid=3&RTS=1669269073&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+江苏城市,http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?&encrypt=
+江苏城市,http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/350/index.m3u8?&encrypt=
+江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv
+江苏卫视,http://159.75.85.63:36666/migu/623899368.m3u8?migutoken=44450ee5d9805c0c359d156e873d4cc8f71e5d03261dac3242e7ef82f604c2e10f8f5e17cf1787414b5a682160148f45ba9af15e6228bead8ac342edc8f55c371c850283f55eaa4fd2641cd2c4
+南京新闻综合,http://159.75.85.63:36666/migu/838109047.m3u8?migutoken=6d02ada5111e1c242367924a186dee61e71153e27ff05ebf483408afbade7e1a42aadf6ff4dbfa577fb3b1b9f56f3df70b3144f1cbdb84d2bdbc19a9d15527ea8d42c658757d9521fe391f0f11
+南京教科,http://159.75.85.63:36666/migu/838153729.m3u8?migutoken=39a3785d44d4e1b084ec90acb28bc3e31ac53c5773ab61e302e0ac58e0fc0b3961467231d04119281c61f1871cc5e3e1dd8eb443b5e3f60768fcf9764f3e1d1d495be42592b24958fc5632203d
+南京十八,http://159.75.85.63:36666/migu/838151753.m3u8?migutoken=2dc875d41fe191848137e116ce726d9aa700e19f657a047e41f1febf49c686826fa997d5121ee174f7180029c2d7aaa1b815e0c9397b63e91c39ae846487380997cfeb174a668300939a61d5ac
+江苏国际,http://159.75.85.63:36666/migu/626064674.m3u8?migutoken=e5cdbc320181be4ffc1b1250a5756934063a7c12884680b1a3d2c45216d781a128fc9fc308d44aa5dc05a038e28b483dcb6e48403cb6fd3d715c314da05de3bb20ba3cda346d569e4d0765c199
+江苏教育,http://159.75.85.63:36666/migu/628008321.m3u8?migutoken=48117648320d08f36b38555b8e30241ee1809f729b3a1288811d790a1e8ce7c94bbef45d14a861b2d6b4d900f9d3d832944619aeaf3256b4df3c947b08facf86597c36d10009330d28bfb4639c
+江苏影视,http://159.75.85.63:36666/migu/626064697.m3u8?migutoken=ae74e65a68b96dba3290d052c5c03011aa51654de1ef85afd8786fddc87c6ac80aacd37d02ed7d9fae948fe16b32721c7bf2d77af3140fa5087227673c5d8976aadc1cfe65af98ce8e3edaa59e
+江苏综艺,http://159.75.85.63:36666/migu/626065193.m3u8?migutoken=57a6600f561b12ce4315746648b6edc13d1a5ada2fa8d69191a04b023f75cd36e6096c53938b255454c9fcef2e120e171037e42aebf21e96e438af76164e98dd924557c0035d5de0e623d1ff28
