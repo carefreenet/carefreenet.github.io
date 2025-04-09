@@ -1,5 +1,6 @@
 /*屏幕上有根毛*/
 !function() {
+    if (Math.random() < 0.5) return;//50%随机显示
     var bottom = Math.floor(60 * Math.random()),
         right = Math.floor(50 * Math.random()),
         rotate = Math.floor(360 * Math.random());
