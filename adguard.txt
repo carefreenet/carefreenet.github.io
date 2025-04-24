@@ -1,4 +1,5 @@
 @@||github.com^
+@@||githubusercontent.com^
 @@||dcloud.net.cn^
 @@||tongji.baidu.com^
 @@||hm.baidu.com^
