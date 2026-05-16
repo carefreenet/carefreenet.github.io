@@ -1,4 +1,17 @@
 @@||1sapp.com^
+@@||mi.com^
+@@||xiaomi.com^
+@@||mi-idc.com^
+@@||mijia.com^
+@@||io.mi.com^
+@@||api.io.mi.com^
+@@||device.io.mi.com^
+@@||staging.api.io.mi.com^
+@@||de.pandora.xiaomi.com^
+@@||o2o.api.xiaomi.com^
+@@||account.xiaomi.com^
+@@||auth.api.io.mi.com^
+@@||networking.mi.com^
 @@||37signals.com^
 @@||3975.com^
 @@||7moor.com^
