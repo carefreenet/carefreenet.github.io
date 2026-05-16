@@ -14,15 +14,6 @@
 @@||xiaomi.com^
 @@||mi-idc.com^
 @@||mijia.com^
-@@||io.mi.com^
-@@||api.io.mi.com^
-@@||device.io.mi.com^
-@@||staging.api.io.mi.com^
-@@||de.pandora.xiaomi.com^
-@@||o2o.api.xiaomi.com^
-@@||account.xiaomi.com^
-@@||auth.api.io.mi.com^
-@@||networking.mi.com^
 @@||se.360.cn^
 @@||iask.cn^
 @@||iask.com.cn^
