@@ -504,6 +504,7 @@
 @@||wtradv.market.xiaomi.com^
 @@||wup.imtt.qq.com^
 @@||wx.qq.com^
+@@||figma.com^
 @@||wxapp.lvyadx.cn^
 @@||x6img.com^
 @@||xifuquan.com^
